@@ -1,0 +1,8 @@
+public class Hieucodejava {
+    public static void main (String[] args) {
+       int a = 1;
+    System.out.println(a++ + 2); // Lấy giá trị a (1) cộng 2, in ra 3. Sau đó a tăng lên 2
+
+    System.out.println(++a); // tăng thêm 1 rồi mới in ra
+    }
+}
