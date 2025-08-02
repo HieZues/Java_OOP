@@ -2,6 +2,6 @@ public class HieuNui {
   public static void main (String [] args) {
     System.out.println ("Hieu dang hoc java");
     System.out.println ("Hieu dang hoc lap trinh huong doi tuong");
+    System.out.println ("Hieu sinh 16/11/2006");
   }
-
 }
