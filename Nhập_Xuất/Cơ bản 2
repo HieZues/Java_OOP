@@ -1,0 +1,17 @@
+public class Hieucodejava {
+    public static void main (String[] args) {
+       String name;
+       float chieucao;
+       int age;
+       name = "Viet Hieu";
+       age = 19;
+       chieucao= 1.65f;
+       
+        System.out.print("Ten: ");
+        System.out.println(name);
+        System.out.print("Chieu cao: ");
+        System.out.println(chieucao);
+        System.out.print("Tuoi: ");
+        System.out.println(age);          
+    }
+}
